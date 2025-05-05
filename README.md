@@ -16,5 +16,5 @@ This is a simple ticket booking system built with core PHP, MySQL, HTML, CSS, an
 ### 1. Clone the Repository
 
 ```bash
-git clone <repository-url>
-cd ticket-booking-system
+git clone <https://github.com/JitendraD98/ticket-booking.git>
+cd ticket-booking
